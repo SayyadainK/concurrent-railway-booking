@@ -55,9 +55,7 @@ README.md                          # Project overview and instructions
 
 ---
 
-- Kanishk
-
 ---
 
 ## 🔗 GitHub
-Project Repository: [https://github.com/4ditxya/concurrent-railway-booking](https://github.com/4ditxya/concurrent-railway-booking)
+Project Repository: https://github.com/SayyadainK/concurrent-railway-booking/edit/main/README.md
