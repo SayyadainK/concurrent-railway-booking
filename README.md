@@ -55,9 +55,6 @@ README.md                          # Project overview and instructions
 
 ---
 
-## 📌 Contributors
-- Om
-- Runjhun
 - Kanishk
 
 ---
